@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Do-Not-Dusturb
-- 👀 I’m interested in coding duh then why am i here 
-- 🌱 I’m currently learning : bro idk what 
-- 💞️ I’m looking to collaborate on nintendoboi22
-- 📫 How to reach me? email me do_not_Dusturb@outlook.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am in school rn
+# Do Not Dusturb
 
-<!---
-Do-Not-Dusturb/Do-Not-Dusturb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Hi, I'm a guy that codes for fun. I'm helping nintendoboi22 because I'm bored. I'm in 8th grade, I do touch grass so don't worry. I know HTML, some JS, CSS (bro my CSS lookin ugly as hail 😭), and some Python. I also make games on Scratch, so check that out: [My Scratch Profile](https://scratch.mit.edu/users/Do_Not_Dusturb/).
+
+## Projects
+just look at the pins and the @nintendoboi222 organization
+
+## Skills
+- HTML
+- CSS - ugly tho
+- JavaScript
+- Python - some
+- Game Development on Scratch
+
+## Contact
+You can reach me at: [donotdusturb1@gmail.com](mailto:donotdusturb1@gmail.com)
+
+---
+
+&copy; 2024 Do-Not-Dusturb
+```
+
