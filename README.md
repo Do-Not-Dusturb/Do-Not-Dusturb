@@ -19,5 +19,3 @@ You can reach me at: [donotdusturb1@gmail.com](mailto:donotdusturb1@gmail.com)
 ---
 
 &copy; 2024 Do-Not-Dusturb
-```
-
