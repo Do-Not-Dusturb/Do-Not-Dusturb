@@ -17,6 +17,7 @@ just look at the pins and the @nintendoboi222 organization
 
 ## Contact
 You can reach me at: [donotdusturb1@gmail.com](mailto:donotdusturb1@gmail.com)
+and discord: King_Hades_
 
 ---
 
